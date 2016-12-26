@@ -67,6 +67,7 @@ _just double-click any material you want to apply to the character. if you don't
 8. Select parts and customize options for them, e.g. use "Smart Content" -> "Materials" for a selected "Hair" part
 <p>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig16.jpg?raw=true" width="250"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig18.jpg?raw=true" width="250"/>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig17.jpg?raw=true" width="250"/>
 </p>
 
