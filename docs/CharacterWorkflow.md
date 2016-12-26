@@ -24,6 +24,12 @@ Everyone can create a nice humanoid character within minutes in this App! And be
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig02.jpg?raw=true" width="350"/>
 </p>
 
+* Change to "Actors, Wardrobe & Props" activity
+<p align="center">
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig03.jpg?raw=true" width="350"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig04.jpg?raw=true" width="350"/>
+</p>
+
 ## 3. Get Animations (Mixamo)
 
 Get a free account at mixamo.com and just surf around in their animation "store". Most of them are free and you can easily click-together a set of animations, also called a "Locomotion". A Locomotion is just a collection of multiple animation-loops, fitting a special need for a game for example. Maybe you want to just have a running, turning, crouching and jumping animation to build the real "Locomotion" afterwards in your game-engine -> e.g just everything needed to move around the character in the game-world. Then you can have another collection, another locomotion delivering everything needed to have a fight with an enemy (punches, defence-moves etc.).
