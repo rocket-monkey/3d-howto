@@ -1,4 +1,6 @@
-# Create a Character
+[<- back to Character Workflow](../CharacterWorkflow.md)
+
+# Create a Character in Daz3D
 
 1. Set the layout to "Hollywood Blv."
 <p>
