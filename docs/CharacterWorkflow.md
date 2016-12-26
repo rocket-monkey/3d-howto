@@ -26,8 +26,8 @@ Everyone can create a nice humanoid character within minutes in this App! And be
 
 2. Change to "Actors, Wardrobe & Props" activity, select "Figures"
 <p>
-  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig03.jpg?raw=true" width="270"/>
-  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig04.jpg?raw=true" width="120"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig03.jpg?raw=true" width="273"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig04.jpg?raw=true" width="100"/>
 </p>
 
 3. Double-click e.g "Genesis 3 Male" to create a male character
