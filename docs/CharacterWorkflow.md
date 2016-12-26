@@ -33,22 +33,23 @@ _it's the only layout of the UI where i know where all the tools are.._
 
 3. Double-click e.g "Genesis 3 Male" to create a male character
 <p>
-  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig05.jpg?raw=true" width="273"/>
-  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig06.jpg?raw=true" width="100"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig05.jpg?raw=true" width="250"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig06.jpg?raw=true" width="400"/>
 </p>
 
 4. Customize the shape, select character and goto "Shaping" pane
 <p>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig07.jpg?raw=true" width="400"/>
-  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig08.jpg?raw=true" width="290"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig08.jpg?raw=true" width="320"/>
 </p>
 _change the shape by playing around with all different sliders - depending on the asset you are working with, these can be more or less sliders_
 
-5. Customize the texture, select character and goto "Smart Content" pane
+5. Customize the texture, select character and goto "Smart Content" pane, and select "Materials"
 <p>
-  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig09.jpg?raw=true" width="120"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig09.jpg?raw=true" width="205"/>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig10.jpg?raw=true" width="350"/>
 </p>
+_just double-click any material you want to apply to the character. if you don't find something that matches your whish - you will end up buying new stuff in the store of daz3d.com. it's not that easy to build stuff from scratch regarding models and textures in daz3d, but the store is huge._
 
 ## 3. Get Animations (Mixamo)
 
