@@ -45,6 +45,10 @@ _it's the only layout of the UI where i know where all the tools are.._
 _change the shape by playing around with all different sliders - depending on the asset you are working with, these can be more or less sliders_
 
 5. Customize the texture, select character and goto "Smart Content" pane
+<p>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig09.jpg?raw=true" width="120"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig10.jpg?raw=true" width="350"/>
+</p>
 
 ## 3. Get Animations (Mixamo)
 
