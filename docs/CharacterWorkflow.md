@@ -19,13 +19,13 @@ Daz3D is a wonderful software for beginners. We don't need to have any modelling
 Everyone can create a nice humanoid character within minutes in this App! And because it is supportin .flv as export format, it fits perfectly into our 3D workflow together with MotionBuilder/Maya and UE4. Oh last but not least - the characters have a built-in skeleton in them, with a perfect skinning setup, ready to animate ;)
 
 1. Set the layout to "Hollywood Blv."
-<p align="center">
+<p>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig01.jpg?raw=true" width="420"/>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig02.jpg?raw=true" width="180"/>
 </p>
 
 2. Change to "Actors, Wardrobe & Props" activity, select "Figures"
-<p align="center">
+<p>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig03.jpg?raw=true" width="270"/>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig04.jpg?raw=true" width="120"/>
 </p>
