@@ -23,8 +23,7 @@ Everyone can create a nice humanoid character within minutes in this App! And be
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig01.jpg?raw=true" width="420"/>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig02.jpg?raw=true" width="180"/>
 </p>
-
-> it's the only layout of the UI where i know where all the tools are..
+_it's the only layout of the UI where i know where all the tools are.._
 
 2. Change to "Actors, Wardrobe & Props" activity, select "Figures"
 <p>
@@ -38,11 +37,14 @@ Everyone can create a nice humanoid character within minutes in this App! And be
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig06.jpg?raw=true" width="100"/>
 </p>
 
-4. Customize the character, select it and goto "Shaping" pane
+4. Customize the shape, select character and goto "Shaping" pane
 <p>
-  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig07.jpg?raw=true" width="270"/>
-  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig08.jpg?raw=true" width="270"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig07.jpg?raw=true" width="400"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig08.jpg?raw=true" width="290"/>
 </p>
+_change the shape by playing around with all different sliders - depending on the asset you are working with, these can be more or less sliders_
+
+5. Customize the texture, select character and goto "Smart Content" pane
 
 ## 3. Get Animations (Mixamo)
 
