@@ -20,8 +20,8 @@ Everyone can create a nice humanoid character within minutes in this App! And be
 
 * Set the layout to "Hollywood Blv."
 
-![fig1](https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d-fig01.jpg?raw=true)
-![fig2](https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d-fig02.jpg?raw=true)
+![fig1](https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig01.jpg?raw=true)
+![fig2](https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig02.jpg?raw=true)
 
 ## 3. Get Animations (Mixamo)
 
