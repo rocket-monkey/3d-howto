@@ -51,6 +51,25 @@ _change the shape by playing around with all different sliders - depending on th
 </p>
 _just double-click any material you want to apply to the character. if you don't find something that matches your whish - you will end up buying new stuff in the store of daz3d.com. it's not that easy to build stuff from scratch regarding models and textures in daz3d, but the store is huge._
 
+6. Select more important "Smart Content" with "Wardrobe" and "Hair" for your character
+<p>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig11.jpg?raw=true" width="350"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig12.jpg?raw=true" width="350"/>
+</p>
+
+7. Use "Surface Selection Tool" to select parts of the model, e.g. to delete an unwatned helmet from a wardrobe
+<p>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig13.jpg?raw=true" width="250"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig14.jpg?raw=true" width="250"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig15.jpg?raw=true" width="250"/>
+</p>
+
+8. Select parts and customize options for them, e.g. use "Smart Content" -> "Materials" for a selected "Hair" part
+<p>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig16.jpg?raw=true" width="250"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/daz3d/fig17.jpg?raw=true" width="250"/>
+</p>
+
 ## 3. Get Animations (Mixamo)
 
 Get a free account at mixamo.com and just surf around in their animation "store". Most of them are free and you can easily click-together a set of animations, also called a "Locomotion". A Locomotion is just a collection of multiple animation-loops, fitting a special need for a game for example. Maybe you want to just have a running, turning, crouching and jumping animation to build the real "Locomotion" afterwards in your game-engine -> e.g just everything needed to move around the character in the game-world. Then you can have another collection, another locomotion delivering everything needed to have a fight with an enemy (punches, defence-moves etc.).
