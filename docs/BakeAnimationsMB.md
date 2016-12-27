@@ -18,12 +18,12 @@ _Select "Ignore All" when he complains about some axis invalidities_
 
 4. Select "Plot to Control Rig" in the "Load Technique" radio selection and press "Open"
 <p>
-  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig23.jpg?raw=true" width="316"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig23.jpg?raw=true" width="550"/>
 </p>
 
 5. Tada, your character starts to move! And you should see now all Takes in the Navigator, you can go trough them by double-click
 <p>
-  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig24.jpg?raw=true" width="316"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig24.jpg?raw=true" width="720"/>
 </p>
 
 5. Plot now every Animation/Take to the skeleton -> select a take by double-click, select "Source->Control Rig", press big-blue button and choose "Bake (Plot)->Bake (plot) To Skeleton"
