@@ -16,7 +16,7 @@ How to build a character with [Daz3D](https://www.daz3d.com/), export it to [Mot
 
 Daz3D is a wonderful software for beginners. We don't need to have any modelling/texturing skills to generate wonderful human models. Daz3D is basically an extremely sophisticated character-generator, coming with a very detailed human body for male and female characters. We can customize the character by hundreds of different sliders and just paint it with pre-defined textures and clothings.
 
-Everyone can create a nice humanoid character within minutes in this App! And because it is supportin .flv as export format, it fits perfectly into our 3D workflow together with MotionBuilder/Maya and UE4. Oh last but not least - the characters have a built-in skeleton in them, with a perfect skinning setup, ready to animate ;)
+Everyone can create a nice humanoid character within minutes in this App! And because it is supportin .fbx as export format, it fits perfectly into our 3D workflow together with MotionBuilder/Maya and UE4. Oh last but not least - the characters have a built-in skeleton in them, with a perfect skinning setup, ready to animate ;)
 
 [Create a Character in Daz3D](Daz3DCreateCharacter.md)
 
@@ -36,18 +36,20 @@ To make the mixamo animations usable with our workflow, we have to "convert" the
 
 We have to check the specific positioning of the whole character skeleton before we can savely export a Daz3D character to work with in MotionBuilder.
 
-### 5.a Setup Skeleton for Genesis in MB
-
-To proper work with a Genesis Character coming from Daz3D, we have to setup a "sekeleton-configuration" in MotionBuilder (MB) once. In this configuration, we're telling MB which bone is for which purpose - going trough every single bone and giving each a specific purpose in the skeleton table of MB. We can save this in a file for later usage so it's only needed to setup once. By having this possibility - we can work with _any_ character model from _any_ source, as far as the skeleton of it is somehow human and having all the minimal needed joints/purposes in it to bind with the MB table.
+[Properly export a Character in Daz3D](Daz3DExportCharacter.md)
 
 ## 6. Bake Animations to the Character (MotionBuilder)
 
 Import the Daz3D character model into MotionBuilder and bake our already created Locomotion onto it.
 
+[Bake Animations to Character in MotionBuilder](BakeAnimationsMB.md)
+
 ## 7. Final Optimizations (Maya)
 
-We can rework the whole thing with Maya _as we want_ - Maya is the best in .flv exports and understands _all_ the parts of the model so far (mesh/bones/skinning/texture/animation). So we can customize everything to our liking here, like lower the poly-count, removing parts or even re-model parts of the mesh or refine the skinning. Even if you don't do anything like this, go trough Maya to create the final .flv in all cases so you'll never having problems in the final import into UE4.
+We can rework the whole thing with Maya _as we want_ - Maya is the best in .fbx exports and understands _all_ the parts of the model so far (mesh/bones/skinning/texture/animation). So we can customize everything to our liking here, like lower the poly-count, removing parts or even re-model parts of the mesh or refine the skinning. Even if you don't do anything like this, go trough Maya to create the final .fbx in all cases so you'll never having problems in the final import into UE4.
+
+[Finalize a Character in Maya](FinalizeCharacterMaya.md)
 
 ## 8. Import to the Game (UnrealEngine 4)
 
-TODO
+[Import a Character into Unreal Engine 4](ImportCharacterUE4.md)

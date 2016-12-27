@@ -2,6 +2,8 @@
 
 # Setup Locomotion in MotionBuilder
 
+## Load reference character and define skeleton
+
 1. Unpack the downloaded .zip file you got from mixamo.com - it should look like this
 <p>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig01.jpg?raw=true" width="316"/>
@@ -24,7 +26,7 @@ _As we only want to import the bare character first, without any animations - de
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig04.jpg?raw=true" width="316"/>
 </p>
 
-5. Select the "Hip" Bone in the File-Browser
+5. Select the "Hip" Bone in the Navigator
 <p>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig05.jpg?raw=true" width="316"/>
 </p>
@@ -39,7 +41,7 @@ _As we only want to import the bare character first, without any animations - de
 <p>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig08.jpg?raw=true" width="316"/>
 </p>
-_We can select bone-by-bone in the file browser and then right-click the equivalent bone in the definition (in the right pane) and select "Assign bone". After we have done that with every bone in the character, we can save this definition as a template with the little save-button on top of the skeleton pane. Browse to the dropbox-folder/assets to lookup existing ones for Genesis 3 and Mixamo._
+_We can select bone-by-bone in the Navigator and then right-click the equivalent bone in the definition (in the right pane) and select "Assign bone". After we have done that with every bone in the character, we can save this definition as a template with the little save-button on top of the skeleton pane. Browse to the dropbox-folder/assets to lookup existing ones for Genesis 3 and Mixamo._
 
 7. It can happen that the validation for the skeleton fails -> we get "yellow" bones in this case
 <p>
@@ -57,3 +59,39 @@ _We can select bone-by-bone in the file browser and then right-click the equival
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig12.jpg?raw=true" width="316"/>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig13.jpg?raw=true" width="316"/>
 </p>
+
+## Import the animations as "Takes"
+
+1. With the open reference character, goto "File->Motion File Import"
+<p>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig14.jpg?raw=true" width="316"/>
+</p>
+
+2. Select all the animation files together, select "Merge" option in the import dialog in the radios left
+<p>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig15.jpg?raw=true" width="316"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig16.jpg?raw=true" width="316"/>
+</p>
+
+3. Now you see how the character skeleton changes to match the animation!
+<p>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig17.jpg?raw=true" width="316"/>
+</p>
+
+4. Now you see how the character skeleton changes to match the animation!
+<p>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig17.jpg?raw=true" width="316"/>
+</p>
+
+5. Browse to "Takes" in the Navigator, double-click one to activate it
+<p>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig18.jpg?raw=true" width="316"/>
+</p>
+
+6. Now press "play" in the movie controls and toggle the "repeat" button, the one on the right of the movie controls
+<p>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/motionbuilder/fig19.jpg?raw=true" width="316"/>
+</p>
+
+7. Rename the takes as you want, remove the ones you don't need and finally save this as a new .fbx file by "File->Save As"
+_This final file will be used as a reference "locomotion" for further projects. The power of MotionBuilder is, that we can merge those animations to any character model as soon as the bones are configured with MotionBuilder's internal sekeleton definition._
