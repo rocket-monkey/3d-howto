@@ -26,7 +26,7 @@ _By adding a first animation to a pack, we will create a collection of animation
 
 4. Select more animations, choose options and finally "Add to Pack" them
 <p>
-  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/mixamo/fig07.jpg?raw=true" width="320"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/mixamo/fig07.jpg?raw=true" width="600"/>
 </p>
 
 5. When you're collection/locomotion is finished, press "Add to my Assets" on top of the pane, and "View/Download" becomes available
@@ -44,5 +44,5 @@ _Press "Queue Download" again in the format dialog and he will process them agai
 
 7. Finally you can download now the Locomotion pack
 <p>
-  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/mixamo/fig13.jpg?raw=true" width="320"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/mixamo/fig13.jpg?raw=true" width="600"/>
 </p>
