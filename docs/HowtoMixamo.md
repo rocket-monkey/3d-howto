@@ -1,4 +1,4 @@
-[<- back to Character Workflow](CharacterWorkflow.md#2-create-a-character-daz3d)
+[<- back to Character Workflow](CharacterWorkflow.md#3-get-animations-mixamo)
 
 # Howto Mixamo
 
