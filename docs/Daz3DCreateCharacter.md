@@ -1,4 +1,4 @@
-[<- back to Character Workflow](../CharacterWorkflow.md#2-create-a-character-daz3d)
+[<- back to Character Workflow](CharacterWorkflow.md#2-create-a-character-daz3d)
 
 # Create a Character in Daz3D
 
