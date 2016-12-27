@@ -44,5 +44,5 @@ _Press "Queue Download" again in the format dialog and he will process them agai
 
 7. Finally you can download now the Locomotion pack
 <p>
-  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/mixamo/fig13.jpg?raw=true" width="600"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/mixamo/fig13.jpg?raw=true" width="700"/>
 </p>
