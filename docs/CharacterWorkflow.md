@@ -7,10 +7,10 @@ How to build a character with [Daz3D](https://www.daz3d.com/), export it to [Mot
 ## 1. Install Software
 
 * Get [Daz3D](https://www.daz3d.com/) -> it's free, besides the assets-store
-* Get [MotionBuilder](http://www.autodesk.com/products/motionbuilder/overview) -> look into the dropbox-folder
-* Get [Maya](http://www.autodesk.de/products/maya/overview) -> look into the dropbox-folder
-* Get an account at [Mixamo](https://www.mixamo.com/) -> it's free
-* Get [UnrealEngine 4](https://www.unrealengine.com/) -> it's free
+* Get [MotionBuilder](http://www.autodesk.com/products/motionbuilder/overview) -> not free, look into the dropbox-folder
+* Get [Maya](http://www.autodesk.de/products/maya/overview) -> not free, look into the dropbox-folder
+* Get an account at [Mixamo](https://www.mixamo.com/) -> it's free but you need an Adobe ID
+* Get [UnrealEngine 4](https://www.unrealengine.com/) -> it's free but you must register
 
 ## 2. Create a Character (Daz3D)
 
@@ -29,6 +29,8 @@ Get a free account at mixamo.com and just surf around in their animation "store"
 ## 4. Setup the "Locomotion" (MotionBuilder)
 
 To make the mixamo animations usable with our workflow, we have to "convert" them into a MotionBuilder (MB) project file. We can do this by important the reference character of mixamo, defining the skeleton for it and baking all the mixamo original animations directly to this model. After we have saved this into a MB file, we can use this particular file afterwards as our "Locomotion" to import all of those animations into _any_ MB model we want to work with.
+
+[Setup Locomotion in MotionBuilder](LocomotionMB.md)
 
 ## 5. Export the Character (Daz3D)
 

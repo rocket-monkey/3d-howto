@@ -4,7 +4,7 @@
 
 Goto [mixamo.com](http://mixamo.com) and login with your Adobe ID.
 
-1. On the landing page after you are logged-in, goto "Browse Animations" and select there "Animations"
+1. On the landing page after you are logged-in, goto "Browse Animations" and select there "Characters"
 <p>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/mixamo/fig01.jpg?raw=true" width="320"/>
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/mixamo/fig02.jpg?raw=true" width="320"/>
@@ -16,6 +16,13 @@ Goto [mixamo.com](http://mixamo.com) and login with your Adobe ID.
   <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/mixamo/fig04.jpg?raw=true" width="320"/>
 </p>
 _For e.g. a running animation, keep in mind we're going to build a game - meaning a running animation should not go from a to b, it should run "in place" -> the movement will be given trough the user input in the end, processed and set by the game-engine. So we're going to check "In Place" for such animations we select._
+
+3. Before proceed, select "Change Character" on top and work with a real character instead of the dummy
+<p>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/mixamo/fig14.jpg?raw=true" width="320"/>
+  <img src="https://github.com/rocket-monkey/3d-howto/blob/master/docs/images/mixamo/fig15.jpg?raw=true" width="320"/>
+</p>
+_If you don't have a character, goto "Store" on header menu, and there to "Characters", choose one and add it by "Add to my Assets". By working with a real character, we will have the model of it in the final .zip download, perfect to work with MotionBuilder_
 
 3. Now press "Add to Pack" on the bottom of the option pane
 <p>
