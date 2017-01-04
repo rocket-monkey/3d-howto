@@ -18,6 +18,8 @@ Daz3D is a wonderful software for beginners. We don't need to have any modelling
 
 Everyone can create a nice humanoid character within minutes in this App! And because it is supportin .fbx as export format, it fits perfectly into our 3D workflow together with MotionBuilder/Maya and UE4. Oh last but not least - the characters have a built-in skeleton in them, with a perfect skinning setup, ready to animate ;)
 
+> Only true downside i found in my journeys - the skinning of the latest "Genesis 3" human model is using "qubic-bezier" as skinning method. This produces very nice results tough, but the support of this method is only given in the latest 3d programs like Maya/3ds max. The support of this method in game engines is a different story, because the calculation of "qubic-bezier" is heavier compared to existing methods. Unity and UE4 are _not_ supporting it - the only one i found (no surprise) which _would_ support is Cryengine :tada:. I tried to stick a character setup together with Cryengine too after i licensed it trough Steam - but i already failed completely at the very first screen of the setup wizard, even _with_ tutorials -.-
+
 [Create a Character in Daz3D](Daz3DCreateCharacter.md)
 
 ## 3. Get Animations (Mixamo)
