@@ -2,7 +2,7 @@
 
 # Import a Character into Unreal Engine 4
 
-Totally easy because UDK supports the FBX file format :wink: We can simply import the just saved .fbx generated with Motion-Builder as a new Asset.
+Totally easy because UDK supports the FBX file format :wink: We can simply import the just saved .fbx generated with Maya/Motion-Builder as a new Asset.
 
 Important is to make sure the option "Sekeleton" is set to "None" - as you want to let UDK generate a Skeleton Asset for the imported character the first time. Also activate the checkbox "Import Animations" and choose there the option "Duration as Imported".
 
