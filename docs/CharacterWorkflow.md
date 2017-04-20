@@ -32,7 +32,7 @@ Get a free account at mixamo.com and just surf around in their animation "store"
 
 ## 4. Setup the "Locomotion" (MotionBuilder)
 
-To make the mixamo animations usable with our workflow, we have to "convert" them into a MotionBuilder (MB) project file. We can do this by import the reference character of mixamo, defining the skeleton for it and baking all the mixamo original animations directly to this model. After we have saved this into a MB file, we can use this particular file afterwards as our "Locomotion" to import all of those animations into _any_ MB model we want to work with.
+To make the mixamo animations usable with our workflow, we have to "convert" them into a MotionBuilder (MB) project file. Well it's again just an .fbx file but with much more meta-data in it. We can achieve this by importing the reference character of mixamo, defining the skeleton for it and baking all the mixamo original animations directly to this model. After we have saved this into an .fbx file, we can use this particular file afterwards as our "Locomotion" to import all of those animations into _any_ character model we want to work with in MotionBuilder.
 
 [Setup Locomotion in MotionBuilder](LocomotionMB.md)
 
