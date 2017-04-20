@@ -90,3 +90,15 @@ _We can select bone-by-bone in the Navigator and then right-click the equivalent
 
 6. Rename the takes as you want, remove the ones you don't need and finally save this as a new .fbx file by "File->Save As"
 _This final file will be used as a reference "locomotion" for further projects. The power of MotionBuilder is, that we can merge those animations to any character model as soon as the bones are configured with MotionBuilder's internal sekeleton definition._
+
+# Update
+
+it's not working this easy anymore, don't ask me why -.- What we need to change in the workflow to get it working again is:
+
+* Create a control-rig before you import the motion-file. Achieve that by selecting "Control Rig" for "Source" on top-right in the UI - if there is none it will start the dialog to create one, just create it.
+
+* Now in the middle-down of the UI, choose somewhere somehwat like "Control rig as skeleton input", i try to remember where and update here perfectly
+
+* Now you can import the motion file as usual - and you must see a change in the stance so you know the animations applied correctly (what is the hard part after creating a control-rig that this works again..)
+
+* After it worked this far, so you can click trough all the takes and you see the sekeleton AND the control-rig around it moving perfectly - then you're ready to save this baby with "Save as" and you have your working "Character Animation File" which can be imported as described in the next section onto ANY character.
