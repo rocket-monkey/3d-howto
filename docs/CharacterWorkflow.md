@@ -56,6 +56,6 @@ We can rework the whole thing with Maya _as we want_ - Maya is the best in .fbx 
 
 ## 8. Import to the Game (UnrealEngine 4)
 
-Now this is really easy after all the lengthy steps before :wink: Well, if you tried to achieve all this on your own, this step can feel like the hardest pain-in-the-ass because you always wait a few minutes to see how you failed with something. But in all the failed cases it's not the fault of UDK itself - the error is already there in .fbx file you want to import. So after going trough all the steps before without any problems, you should be fine and can just import and it will _just_ work!
+Now this is really easy after all the lengthy steps before :wink: Well, if you tried to achieve all this on your own, this step can feel like the hardest pain-in-the-ass because you always wait a few minutes to see how you failed with something. But in all the failed cases it's not the fault of UDK itself - the error is already there in .fbx file you want to import. So after going trough all the steps before without any problems, you should be fine and it will _just_ work!
 
 [Import a Character into Unreal Engine 4](ImportCharacterUE4.md)
