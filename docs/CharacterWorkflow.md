@@ -16,7 +16,7 @@ How to build a character with [Daz3D](https://www.daz3d.com/), export it to [Mot
 
 Daz3D is a wonderful software for beginners. We don't need to have any modelling/texturing skills to generate wonderful human models. Daz3D is basically an extremely sophisticated character-generator, coming with a very detailed human body for male and female characters. We can customize the character by hundreds of different sliders and just paint it with pre-defined textures and clothings.
 
-Everyone can create a nice humanoid character within minutes in this App! And because it is supportin .fbx as export format, it fits perfectly into our 3D workflow together with MotionBuilder/Maya and UE4. Oh last but not least - the characters have a built-in skeleton in them, with a perfect skinning setup, ready to animate ;)
+Everyone can create a nice humanoid character within minutes in this App! And because it is supporting .fbx as export format, it fits perfectly into our 3D workflow together with MotionBuilder/Maya and UE4. Oh last but not least - the characters have a built-in skeleton in them, with a perfect skinning setup, ready to animate ;)
 
 > 1. Only true downside i found in my journeys - the skinning of the latest "Genesis 3" human model is using "qubic-bezier" as skinning method. This produces very nice results tough, but the support of this method is only given in the latest 3d programs like Maya/3ds max. The support of this method in game engines is a different story, because the calculation of "qubic-bezier" is heavier compared to existing methods. Unity and UE4 are _not_ supporting it - the only one i found (no surprise) which _would_ is Cryengine :tada:. I tried to stick a character setup together with Cryengine too after i licensed it trough Steam - but i already failed completely at the very first screen of the setup wizard, even _with_ tutorials -.-
 
@@ -32,7 +32,7 @@ Get a free account at mixamo.com and just surf around in their animation "store"
 
 ## 4. Setup the "Locomotion" (MotionBuilder)
 
-To make the mixamo animations usable with our workflow, we have to "convert" them into a MotionBuilder (MB) project file. We can do this by important the reference character of mixamo, defining the skeleton for it and baking all the mixamo original animations directly to this model. After we have saved this into a MB file, we can use this particular file afterwards as our "Locomotion" to import all of those animations into _any_ MB model we want to work with.
+To make the mixamo animations usable with our workflow, we have to "convert" them into a MotionBuilder (MB) project file. We can do this by import the reference character of mixamo, defining the skeleton for it and baking all the mixamo original animations directly to this model. After we have saved this into a MB file, we can use this particular file afterwards as our "Locomotion" to import all of those animations into _any_ MB model we want to work with.
 
 [Setup Locomotion in MotionBuilder](LocomotionMB.md)
 
