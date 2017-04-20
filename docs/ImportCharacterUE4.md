@@ -28,5 +28,4 @@ To do that -> open up the "Daz Install Manager" because in the UI of this little
 
 Now take that path and import all those raw textures directly as assets into your UDK project and start using them in your new, shiny SSS material!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cl3yFu5KEvc" frameborder="0" allowfullscreen></iframe>
-
+[UDK SSS Example](https://www.youtube.com/watch?v=Cl3yFu5KEvc)
